@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543681500892",
+    "firebase_url": "https://cannaapp-87a30.firebaseio.com",
+    "project_id": "cannaapp-87a30",
+    "storage_bucket": "cannaapp-87a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543681500892:android:5b9ee276e29b22b0",
+        "android_client_info": {
+          "package_name": "com.example.canna_drive_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543681500892-0qtlsflsq3p536fqedbsmfrkv16l92i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUHmq6sm6aLIyX960y1glrtT3m_tjNj44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543681500892-0qtlsflsq3p536fqedbsmfrkv16l92i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

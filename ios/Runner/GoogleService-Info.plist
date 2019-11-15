@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543681500892-39njhktjm7s216qc6ruhtn9vjsobojjq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543681500892-39njhktjm7s216qc6ruhtn9vjsobojjq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDElZ_lzkE-7nPzbAYg9pIx2h_fTzyec44</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543681500892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cannagoapp.cannaDriveMain</string>
+	<key>PROJECT_ID</key>
+	<string>cannaapp-87a30</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cannaapp-87a30.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543681500892:ios:c791a358e72b4cab510619</string>
+	<key>DATABASE_URL</key>
+	<string>https://cannaapp-87a30.firebaseio.com</string>
+</dict>
+</plist>
